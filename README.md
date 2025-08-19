@@ -12,7 +12,7 @@ A photo gallery of cats.
 
 ## About The Project
 
-Part of the web design course on freeCodeCamp, this project showcases the capabilities of flexbox design in CSS.
+Part of the web design course on freeCodeCamp. This project showcases the capabilities of flexbox design in CSS.
 
 ---
 
